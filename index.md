@@ -4,19 +4,20 @@ You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Balls/c.com
+### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
+# Bharath Sadagopan's First CS193 Homework
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
+Favorite Things About CS193 
+- The class's laid back environment
+- The skills/tools I will learn in this class and its applicability
 
 1. Numbered
 2. List
